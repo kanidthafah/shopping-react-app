@@ -1,0 +1,315 @@
+[
+    {
+        "id": 1,
+        "brand": "George",
+        "price": 350.00,
+        "size": "xl",
+        "image": "/products/product1.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 2,
+        "brand": "Puritan",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product2.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 3,
+        "brand": "Pinepple Connection",
+        "price": 350.00,
+        "size": "l",
+        "image": "/products/product3.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 4,
+        "brand": "George",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product4.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 5,
+        "brand": "George",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product5.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 6,
+        "brand": "Puritan",
+        "price": 350.00,
+        "size": "xxl",
+        "image": "/products/product6.jpg",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 7,
+        "brand": "George",
+        "price": 350.00,
+        "size": "xxl",
+        "image": "/products/product7.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 8,
+        "brand": "Island Shores",
+        "price": 350.00,
+        "size": "xxl",
+        "image": "/products/product8.png",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 9,
+        "brand": "Torch",
+        "price": 450.00,
+        "size": "l",
+        "image": "/products/product9.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 10,
+        "brand": "Old Navy",
+        "price": 350.00,
+        "size": "xl",
+        "image": "/products/product10.png",
+        "status": "New Arrival",
+        "fabric": "100% Cotton",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 11,
+        "brand": "Pinepple Connection",
+        "price": 350.00,
+        "size": "s",
+        "image": "/products/product11.png",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 12,
+        "brand": "Princess Cruise",
+        "price": 350.00,
+        "size": "xl",
+        "image": "/products/product12.png",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 13,
+        "brand": "Djerba",
+        "price": 350.00,
+        "size": "l",
+        "image": "/products/product13.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 14,
+        "brand": "Pinepple Connection",
+        "price": 350.00,
+        "size": "xxl",
+        "image": "/products/product14.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 15,
+        "brand": "Cubavera",
+        "price": 350.00,
+        "size": "xl",
+        "image": "/products/product15.png",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 16,
+        "brand": "Burmuda Bay",
+        "price": 350.00,
+        "size": "xxl",
+        "image": "/products/product16.png",
+        "fabric": "100% Silk",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 17,
+        "brand": "Puritan",
+        "price": 350.00,
+        "size": "xl",
+        "image": "/products/product17.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 18,
+        "brand": "Batik Bay",
+        "price": 350.00,
+        "size": "l",
+        "image": "/products/product18.png",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 19,
+        "brand": "Ocean Current",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product19.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 20,
+        "brand": "Sun Fusion",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product20.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 21,
+        "brand": "Jo Axx's",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product21.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Polyester",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 22,
+        "brand": "Black Horse",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product22.jpg",
+        "status": "Recommended",
+        "fabric": "100% Terivoile",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 23,
+        "brand": "Odo",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product23.jpg",
+        "fabric": "100% Polyester",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 24,
+        "brand": "Happy Bay",
+        "price": 350.00,
+        "size": "xxl",
+        "image": "/products/product24.jpg",
+        "status": "Recommended",
+        "fabric": "100% Terivoile",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 25,
+        "brand": "George",
+        "price": 350.00,
+        "size": "m",
+        "image": "/products/product25.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 26,
+        "brand": "Preswick & Moore",
+        "price": 380.00,
+        "size": "m",
+        "image": "/products/product26.jpg",
+        "status": "Recommended",
+        "fabric": "100% Silk",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 27,
+        "brand": "Young Usa",
+        "price": 380.00,
+        "size": "xl",
+        "image": "/products/product27.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 28,
+        "brand": "Marc Anthony",
+        "price": 400.00,
+        "size": "s",
+        "image": "/products/product28.jpg",
+        "status": "Recommended",
+        "fabric": "100% Lyocell",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 29,
+        "brand": "George",
+        "price": 350.00,
+        "size": "xl",
+        "image": "/products/product29.jpg",
+        "status": "Recommended",
+        "fabric": "100% Rayon",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 30,
+        "brand": "v.h.o",
+        "price": 350.00,
+        "size": "l",
+        "image": "/products/product30.jpg",
+        "status": "New Arrival",
+        "fabric": "100% Terivoile",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 31,
+        "brand": "Denim & Flower",
+        "price": 420.00,
+        "size": "s",
+        "image": "/products/product31.jpg",
+        "status": "Recommended",
+        "fabric": "100% Cotton",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    },
+    {
+        "id": 32,
+        "brand": "Tommy Bahama",
+        "price": 380.00,
+        "size": "l",
+        "image": "/products/product32.jpg",
+        "fabric": "100% Silk",
+        "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
+    }
+]
