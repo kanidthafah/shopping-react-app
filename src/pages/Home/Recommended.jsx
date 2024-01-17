@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom';
-import { BsCartPlusFill } from "react-icons/bs";
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -80,11 +79,8 @@ const Recommended = () => {
                         
                     </div>
 
-                    <div className='px-2 py-2 flex flex-row justify-between items-center'>
+                    <div className='px-2 py-2 flex flex-row justify-start items-center'>
                         <p className="font-medium text-emerald-500"><span>&#3647;</span> {product.price}</p>
-                        <button type='submit' className='flex justify-center items-center px-2 py-1 rounded-md text-xl text-Neutral1 active:translate-y-0.5 hover:text-Neutral2 hover:scale-105'>
-                          <BsCartPlusFill />
-                        </button>
                     </div>
 
                   </Link>
