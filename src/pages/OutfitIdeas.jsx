@@ -8,7 +8,7 @@ const OutfitIdeas = () => {
   useEffect(() => {
     const fetchData = async () => {
       try{
-        let res = await fetch("../../public/outfit-ideas.json")
+        let res = await fetch("/outfit-ideas.json")
         let data = await res.json()
         setOutfits(data)
         // console.log(data);

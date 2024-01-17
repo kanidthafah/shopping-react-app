@@ -17,7 +17,7 @@ const Outfits = () => {
     const [outfits, setOutfits] = useState([])
 
     useEffect(() => {
-        fetch('../../../public/outfit-ideas.json')
+        fetch('/outfit-ideas.json')
             .then(response => response.json())
             .then(data => setOutfits(data))
             .catch(error => console.error('Error fetching data:', error));
