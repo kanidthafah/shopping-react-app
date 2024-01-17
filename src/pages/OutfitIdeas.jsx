@@ -2,12 +2,13 @@ import React, { useEffect, useState } from 'react'
 import CardsOutfit from '../components/CardsOutfit'
 
 const OutfitIdeas = () => {
+
   const [outfits, setOutfits] = useState([])
 
   useEffect(() => {
     const fetchData = async () => {
       try{
-        let res = await fetch('../../public/outfit-ideas.json')
+        let res = await fetch("../../public/outfit-ideas.json")
         let data = await res.json()
         setOutfits(data)
         // console.log(data);
