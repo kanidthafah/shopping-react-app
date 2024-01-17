@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import Recommended from './Home/Recommended';
+import productJson from '../../public/products.json'
 
 const SingleProduct = () => {
 
@@ -14,7 +15,7 @@ const SingleProduct = () => {
 
       const fetchData = async () => {
         try {
-          const response = await fetch('public/products.json');
+          const response = await fetch(productJson);
           const data = await response.json();
           const product = data.filter((p) => p.id == id)
           // console.log(product);

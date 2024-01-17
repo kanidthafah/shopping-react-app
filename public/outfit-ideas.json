@@ -1,70 +1,70 @@
 [
     {
         "id": 1,
-        "img": "/outfit/1.jpg",
+        "img": "outfit/1.jpg",
         "status": "Recommended"
     },
     {
         "id": 2,
-        "img": "/outfit/2.jpg",
+        "img": "outfit/2.jpg",
         "status": "Recommended"
     },
     {
         "id": 3,
-        "img": "/outfit/3.jpg"
+        "img": "outfit/3.jpg"
     },
     {
         "id": 4,
-        "img": "/outfit/4.jpg",
+        "img": "outfit/4.jpg",
         "status": "Recommended"
     },
     {
         "id": 5,
-        "img": "/outfit/5.jpg"
+        "img": "outfit/5.jpg"
     },
     {
         "id": 6,
-        "img": "/outfit/6.jpg"
+        "img": "outfit/6.jpg"
     },
     {
         "id": 7,
-        "img": "./outfit/7.jpg",
+        "img": "outfit/7.jpg",
         "status": "Recommended"
     },
     {
         "id": 8,
-        "img": "/outfit/8.jpg"
+        "img": "outfit/8.jpg"
     },
     {
         "id": 9,
-        "img": "/outfit/9.jpg"
+        "img": "outfit/9.jpg"
     },
     {
         "id": 10,
-        "img": "/outfit/10.jpg",
+        "img": "outfit/10.jpg",
         "status": "Recommended"
     },
     {
         "id": 11,
-        "img": "/outfit/11.jpg"
+        "img": "outfit/11.jpg"
     },
     {
         "id": 12,
-        "img": "/outfit/12.jpg",
+        "img": "outfit/12.jpg",
         "status": "Recommended"
     },
     {
         "id": 13,
-        "img": "/outfit/13.jpg",
+        "img": "outfit/13.jpg",
         "status": "Recommended"
     },
     {
         "id": 14,
-        "img": "/outfit/14.jpg"
+        "img": "outfit/14.jpg"
     },
     {
         "id": 15,
-        "img": "/outfit/15.jpg",
+        "img": "outfit/15.jpg",
         "status": "Recommended"
     }
 ]

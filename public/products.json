@@ -4,7 +4,7 @@
         "brand": "George",
         "price": 350.00,
         "size": "xl",
-        "image": "/products/product1.jpg",
+        "image": "products/product1.jpg",
         "status": "New Arrival",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -14,7 +14,7 @@
         "brand": "Puritan",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product2.jpg",
+        "image": "products/product2.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -24,7 +24,7 @@
         "brand": "Pinepple Connection",
         "price": 350.00,
         "size": "l",
-        "image": "/products/product3.jpg",
+        "image": "products/product3.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -34,7 +34,7 @@
         "brand": "George",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product4.jpg",
+        "image": "products/product4.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -44,7 +44,7 @@
         "brand": "George",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product5.jpg",
+        "image": "products/product5.jpg",
         "status": "New Arrival",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -54,7 +54,7 @@
         "brand": "Puritan",
         "price": 350.00,
         "size": "xxl",
-        "image": "/products/product6.jpg",
+        "image": "products/product6.jpg",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     },
@@ -63,7 +63,7 @@
         "brand": "George",
         "price": 350.00,
         "size": "xxl",
-        "image": "/products/product7.jpg",
+        "image": "products/product7.jpg",
         "status": "New Arrival",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -73,7 +73,7 @@
         "brand": "Island Shores",
         "price": 350.00,
         "size": "xxl",
-        "image": "/products/product8.png",
+        "image": "products/product8.png",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -83,7 +83,7 @@
         "brand": "Torch",
         "price": 450.00,
         "size": "l",
-        "image": "/products/product9.jpg",
+        "image": "products/product9.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -93,7 +93,7 @@
         "brand": "Old Navy",
         "price": 350.00,
         "size": "xl",
-        "image": "/products/product10.png",
+        "image": "products/product10.png",
         "status": "New Arrival",
         "fabric": "100% Cotton",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -103,7 +103,7 @@
         "brand": "Pinepple Connection",
         "price": 350.00,
         "size": "s",
-        "image": "/products/product11.png",
+        "image": "products/product11.png",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     },
@@ -112,7 +112,7 @@
         "brand": "Princess Cruise",
         "price": 350.00,
         "size": "xl",
-        "image": "/products/product12.png",
+        "image": "products/product12.png",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     },
@@ -121,7 +121,7 @@
         "brand": "Djerba",
         "price": 350.00,
         "size": "l",
-        "image": "/products/product13.jpg",
+        "image": "products/product13.jpg",
         "status": "New Arrival",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -131,7 +131,7 @@
         "brand": "Pinepple Connection",
         "price": 350.00,
         "size": "xxl",
-        "image": "/products/product14.jpg",
+        "image": "products/product14.jpg",
         "status": "New Arrival",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -141,7 +141,7 @@
         "brand": "Cubavera",
         "price": 350.00,
         "size": "xl",
-        "image": "/products/product15.png",
+        "image": "products/product15.png",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     },
@@ -150,7 +150,7 @@
         "brand": "Burmuda Bay",
         "price": 350.00,
         "size": "xxl",
-        "image": "/products/product16.png",
+        "image": "products/product16.png",
         "fabric": "100% Silk",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     },
@@ -159,7 +159,7 @@
         "brand": "Puritan",
         "price": 350.00,
         "size": "xl",
-        "image": "/products/product17.jpg",
+        "image": "products/product17.jpg",
         "status": "New Arrival",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -169,7 +169,7 @@
         "brand": "Batik Bay",
         "price": 350.00,
         "size": "l",
-        "image": "/products/product18.png",
+        "image": "products/product18.png",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -179,7 +179,7 @@
         "brand": "Ocean Current",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product19.jpg",
+        "image": "products/product19.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -189,7 +189,7 @@
         "brand": "Sun Fusion",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product20.jpg",
+        "image": "products/product20.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -199,7 +199,7 @@
         "brand": "Jo Axx's",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product21.jpg",
+        "image": "products/product21.jpg",
         "status": "New Arrival",
         "fabric": "100% Polyester",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -209,7 +209,7 @@
         "brand": "Black Horse",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product22.jpg",
+        "image": "products/product22.jpg",
         "status": "Recommended",
         "fabric": "100% Terivoile",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -219,7 +219,7 @@
         "brand": "Odo",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product23.jpg",
+        "image": "products/product23.jpg",
         "fabric": "100% Polyester",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     },
@@ -228,7 +228,7 @@
         "brand": "Happy Bay",
         "price": 350.00,
         "size": "xxl",
-        "image": "/products/product24.jpg",
+        "image": "products/product24.jpg",
         "status": "Recommended",
         "fabric": "100% Terivoile",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -238,7 +238,7 @@
         "brand": "George",
         "price": 350.00,
         "size": "m",
-        "image": "/products/product25.jpg",
+        "image": "products/product25.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -248,7 +248,7 @@
         "brand": "Preswick & Moore",
         "price": 380.00,
         "size": "m",
-        "image": "/products/product26.jpg",
+        "image": "products/product26.jpg",
         "status": "Recommended",
         "fabric": "100% Silk",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -258,7 +258,7 @@
         "brand": "Young Usa",
         "price": 380.00,
         "size": "xl",
-        "image": "/products/product27.jpg",
+        "image": "products/product27.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -268,7 +268,7 @@
         "brand": "Marc Anthony",
         "price": 400.00,
         "size": "s",
-        "image": "/products/product28.jpg",
+        "image": "products/product28.jpg",
         "status": "Recommended",
         "fabric": "100% Lyocell",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -278,7 +278,7 @@
         "brand": "George",
         "price": 350.00,
         "size": "xl",
-        "image": "/products/product29.jpg",
+        "image": "products/product29.jpg",
         "status": "Recommended",
         "fabric": "100% Rayon",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -288,7 +288,7 @@
         "brand": "v.h.o",
         "price": 350.00,
         "size": "l",
-        "image": "/products/product30.jpg",
+        "image": "products/product30.jpg",
         "status": "New Arrival",
         "fabric": "100% Terivoile",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -298,7 +298,7 @@
         "brand": "Denim & Flower",
         "price": 420.00,
         "size": "s",
-        "image": "/products/product31.jpg",
+        "image": "products/product31.jpg",
         "status": "Recommended",
         "fabric": "100% Cotton",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
@@ -308,7 +308,7 @@
         "brand": "Tommy Bahama",
         "price": 380.00,
         "size": "l",
-        "image": "/products/product32.jpg",
+        "image": "products/product32.jpg",
         "fabric": "100% Silk",
         "detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi temporibus, possimus dignissimos beatae sit corporis"
     }
