@@ -9,7 +9,7 @@ const Cart = () => {
   useEffect(() => {
     //fetch cart item from localStorage
     try {
-      const storedCartItems = JSON.parse(localStorage.getItem('cart'));
+      const storedCartItems = JSON.parse(localStorage.getItem('cart')) || [];
       setCartItems(storedCartItems)
     } catch(err){
       console.log("Error parsing: ", err);

@@ -44,7 +44,7 @@ const SingleProduct = () => {
         // console.log(addProduct);
 
         // Retrieve existing cart items from LocalStorage
-        const existingCart = JSON.parse(localStorage.getItem('cart'));
+        const existingCart = JSON.parse(localStorage.getItem('cart')) || [];
         // Check if the product already exists in the cart
         const existingItemID = existingCart.find((item) => item.id === addProduct.id);
 
