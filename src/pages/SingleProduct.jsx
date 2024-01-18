@@ -111,13 +111,13 @@ const SingleProduct = () => {
                 <button 
                   id='addToCart'
                   onClick={handleAddToCart}
-                  type='submit' 
                   className={`px-4 py-2 bg-Neutral1 text-white text-sm rounded shadow-sm shadow-neutral-500 hover:scale-105`}
                 >
                   Add to cart
                 </button>
                 <button
                   onClick={handleBuyNow}
+                  type='submit'
                   className='px-4 py-2 bg-emerald-500 text-white text-sm rounded shadow-sm shadow-emerald-600 hover:scale-105'
                 >
                   <Link to="/cart">Buy now</Link>

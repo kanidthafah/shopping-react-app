@@ -104,6 +104,7 @@ const Cart = () => {
                     <button
                       onClick={() => handleRemoveItem(item)}
                       className='text-red-500 text-xl'
+                      type='submit'
                     >
                       <RiDeleteBin6Fill />
                     </button>
