@@ -12,18 +12,17 @@ function Navbar(){
         setOpenMenu(!openMenu)
     }
 
-    const [cartItems, setCartItems] = useState([])
+    const [cartItems, setCartItems] = useState(JSON.parse(localStorage.getItem("cart")) || [])
   
     useEffect(() => {
         //fetch cart item from localStorage
         try {
-            const storedCartItems = JSON.parse(localStorage.getItem("cart")) || [];
+            const storedCartItems = cartItems
             setCartItems(storedCartItems)
             } catch (err) {
             console.log('Error: ', err.message);
           }
     }, [])
-
 
     return (
         <div className="max-w-full container sticky top-0 z-10">

@@ -7,6 +7,7 @@ const SingleProduct = () => {
     const { id } = useParams();
     const [products, setProducts] = useState([])
     const [isAddedToCart, setIsAddedToCart] = useState(false);
+    const [existingCart, setExistingCart] = useState(JSON.parse(localStorage.getItem("cart")) || [])
 
     const navigate = useNavigate();
     
@@ -25,6 +26,7 @@ const SingleProduct = () => {
       }
         
       fetchData()
+
     }, [id])
     
     const { brand, price, size, image, fabric, detail} = products  ;
@@ -44,13 +46,13 @@ const SingleProduct = () => {
         // console.log(addProduct);
 
         // Retrieve existing cart items from LocalStorage
-        const existingCart = JSON.parse(localStorage.getItem('cart')) || [];
+        // const existingCart = JSON.parse(localStorage.getItem('cart')) || [];
         // Check if the product already exists in the cart
         const existingItemID = existingCart.find((item) => item.id === addProduct.id);
 
         // If the product exists, don't add it again (since limit is 1)
         if (existingItemID) {     
-          setIsAddedToCart(true);
+          setIsAddedToCart(false);
         }else{
            // Update LocalStorage with the updated cart items
           localStorage.setItem('cart', JSON.stringify([...existingCart, addProduct]));

@@ -4,16 +4,19 @@ import { RiDeleteBin6Fill } from "react-icons/ri";
 
 const Cart = () => {
   
-  const [cartItems, setCartItems] = useState([])
+  // const [cartItems, setCartItems] = useState([])
+  const [cartItems, setCartItems] = useState(JSON.parse(localStorage.getItem("cart")) || [])
   
   useEffect(() => {
     //fetch cart item from localStorage
     try {
-      const storedCartItems = JSON.parse(localStorage.getItem('cart')) || [];
+      const storedCartItems = cartItems;
       setCartItems(storedCartItems)
     } catch(err){
       console.log("Error parsing: ", err);
     }
+
+    localStorage.setItem("tasks", JSON.stringify(cartItems))
     
   }, [])
 
