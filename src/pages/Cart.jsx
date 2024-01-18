@@ -34,7 +34,7 @@ const Cart = () => {
     //update new cart
     setCartItems(updateCart)
     // updateLocalStorage(updateCart)
-    window.location.reload();
+    // window.location.reload();
   }
 
   const cartSubTotal = cartItems.reduce((total, item) => {

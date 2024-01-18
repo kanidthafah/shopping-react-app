@@ -56,7 +56,7 @@ const SingleProduct = () => {
           localStorage.setItem('cart', JSON.stringify([...existingCart, addProduct]));
           setIsAddedToCart(true);
         }
-        window.location.reload();
+        // window.location.reload();
     };
   }
 
