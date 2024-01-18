@@ -16,26 +16,25 @@ const Cart = () => {
       console.log("Error parsing: ", err);
     }
 
-    localStorage.setItem("tasks", JSON.stringify(cartItems))
+    localStorage.setItem("cart", JSON.stringify(cartItems))
     
-  }, [])
+  }, [cartItems])
 
   const calculateTotalPrice = (item) => {
     return item.price
   }
 
+  // const updateLocalStorage = (cart) => {
+  //   localStorage.setItem('cart', JSON.stringify(cart))
+  // }
+
   const handleRemoveItem = (item) => {
     const updateCart = cartItems.filter((cartItem) => cartItem.id !== item.id)
 
     //update new cart
-    window.location.reload();
     setCartItems(updateCart)
-    updateLocalStorage(updateCart)
-    
-  }
-
-  const updateLocalStorage = (cart) => {
-    localStorage.setItem('cart', JSON.stringify(cart))
+    // updateLocalStorage(updateCart)
+    window.location.reload();
   }
 
   const cartSubTotal = cartItems.reduce((total, item) => {
@@ -104,7 +103,6 @@ const Cart = () => {
                     <button
                       onClick={() => handleRemoveItem(item)}
                       className='text-red-500 text-xl'
-                      type='submit'
                     >
                       <RiDeleteBin6Fill />
                     </button>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Link, useParams, useNavigate } from 'react-router-dom'
+import { Link, useParams, redirect } from 'react-router-dom'
 import Recommended from './Home/Recommended';
 
 const SingleProduct = () => {
@@ -9,8 +9,6 @@ const SingleProduct = () => {
     const [isAddedToCart, setIsAddedToCart] = useState(false);
     const [existingCart, setExistingCart] = useState(JSON.parse(localStorage.getItem("cart")) || [])
 
-    const navigate = useNavigate();
-    
     useEffect(() => {
 
       const fetchData = async () => {
@@ -63,11 +61,10 @@ const SingleProduct = () => {
   }
 
     const handleBuyNow = (e) => {
-      e.preventDefault()
       handleAddToCart(e); // Execute the same logic as adding to cart
   
       // Redirect to the cart page after adding the item
-      navigate('/cart');
+      return redirect("/cart");
     };
 
   return (
